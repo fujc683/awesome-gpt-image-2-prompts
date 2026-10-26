@@ -9,7 +9,7 @@
 [English](README.md) | [简体中文](README_zh.md) | [日本語](README_ja.md)
 
 **[👉 Generate with GPT Image 2 on APIMart · apimart.ai/model/gpt-image-2](https://gola.apimart.ai/k-AWxgd0)**
-[💰 Pricing](https://gola.apimart.ai/k-AWxgd0) · [🔑 Get an API key](https://gola.apimart.ai/k-AWxgd0)
+[💰 Pricing](https://gola.apimart.ai/k-8nExuW) · [🔑 Get an API key](https://gola.apimart.ai/k-0VvhLd)
 
 
 ---
@@ -35,7 +35,7 @@ GPT Image 2 is known for pixel-perfect text rendering and cross-image consistenc
 
 - **252** prompts in this collection
 - **9** Category
-- Last updated: 2026-10-26
+- Last updated: 2026-10-19
 - apimart.ai/model/gpt-image-2
 
 ## Browse by Category

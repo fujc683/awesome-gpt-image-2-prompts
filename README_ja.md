@@ -9,7 +9,7 @@
 [English](README.md) | [简体中文](README_zh.md) | [日本語](README_ja.md)
 
 **[👉 APIMart で GPT Image 2 を使って生成 · apimart.ai/model/gpt-image-2](https://gola.apimart.ai/k-AWxgd0)**
-[💰 Pricing](https://gola.apimart.ai/k-AWxgd0) · [🔑 Get an API key](https://gola.apimart.ai/k-AWxgd0)
+[💰 Pricing](https://gola.apimart.ai/k-8nExuW) · [🔑 Get an API key](https://gola.apimart.ai/k-0VvhLd)
 
 
 ---
