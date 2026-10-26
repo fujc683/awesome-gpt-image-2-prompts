@@ -9,6 +9,8 @@
 [English](README.md) | [简体中文](README_zh.md) | [日本語](README_ja.md)
 
 **[👉 Generate with GPT Image 2 on APIMart · apimart.ai/model/gpt-image-2](https://gola.apimart.ai/k-AWxgd0)**
+
+`https://gola.apimart.ai/k-AWxgd0`
 [💰 Pricing](https://gola.apimart.ai/k-8nExuW) · [🔑 Get an API key](https://gola.apimart.ai/k-0VvhLd)
 
 
