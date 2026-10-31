@@ -37,7 +37,7 @@ GPT Image 2 is known for pixel-perfect text rendering and cross-image consistenc
 
 - **252** prompts in this collection
 - **9** Category
-- Last updated: 2026-10-30
+- Last updated: 2026-10-31
 - apimart.ai/model/gpt-image-2
 
 ## Browse by Category
